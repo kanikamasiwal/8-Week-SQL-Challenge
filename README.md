@@ -6,10 +6,10 @@ Welcome to my repository dedicated to the 8 Week SQL Challenge created by Danny 
 The 8 Week SQL Challenge is a series of SQL tasks designed to help SQL enthusiasts improve their skills progressively. Each week presents a new challenge that builds upon the concepts learned in previous weeks.
 
 ## Structure of this Repository
-Week X: Each week's challenge is organized into its own directory (Week1, Week2, etc.).
-README.md: Detailed explanation of the challenge requirements.
-Solution.sql: SQL script containing my solution to the challenge.
-Findings.md: Document summarizing my approach, insights gained, and any observations from completing the challenge.
+- Week : Each week's challenge is organized into its own directory.
+- README.md: Detailed explanation of the challenge requirements.
+- Solution.sql: SQL script containing my solution to the challenge.
+- Findings.md: Document summarizing my approach, insights gained, and any observations from completing the challenge.
 
 ## Why I'm Doing This
 I created this repository to document my learning journey and share my solutions with the community. By publicly sharing my work, I hope to receive feedback, learn from others, and contribute to the SQL learning community.
@@ -21,6 +21,6 @@ If you're also participating in the 8 Week SQL Challenge or if you have suggesti
 Danny Ma is a data scientist and educator passionate about teaching SQL and data analysis through practical challenges. You can learn more about him and his work on his website.
 
 ## Resources
-- Official 8 Week SQL Challenge Website
-!
+- [Official 8 Week SQL Challenge Website](https://8weeksqlchallenge.com/)
+
 
